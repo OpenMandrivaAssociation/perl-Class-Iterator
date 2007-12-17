@@ -12,7 +12,6 @@ Group: 		Development/Perl
 Source: 	http://search.cpan.org/CPAN/authors/id/T/TE/TEXMEC/%{module}-%{version}.tar.gz
 Url: 		http://www.cpan.org
 BuildRequires: perl-devel
-BuildRoot: 	%{_tmppath}/%{name}-buildroot/
 BuildArch: noarch
 
 %description
